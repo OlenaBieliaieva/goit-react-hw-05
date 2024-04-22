@@ -1,0 +1,11 @@
+.btn {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  border: 21px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.btn:hover {
+  background-color: lightgrey;
+}

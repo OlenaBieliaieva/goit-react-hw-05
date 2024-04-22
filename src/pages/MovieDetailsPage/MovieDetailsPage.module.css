@@ -1,0 +1,15 @@
+.info {
+  display: flex;
+  gap: 16px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  border: none;
+}
+
+.link:hover {
+  font-weight: 700;
+}

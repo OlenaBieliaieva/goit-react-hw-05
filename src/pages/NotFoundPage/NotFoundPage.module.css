@@ -1,0 +1,15 @@
+.btn {
+  text-decoration: none;
+  border-radius: 8px;
+  background: lightgrey;
+  transition: all 0.25s ease;
+  border: none;
+  outline: none;
+  margin: 0 auto;
+  padding: 8px 16px;
+  color: white;
+}
+
+.btn:hover {
+  color: grey;
+}

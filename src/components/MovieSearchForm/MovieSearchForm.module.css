@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  margin-top: 0;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+
+.input {
+  font-size: 14px;
+  padding: 8px 16px;
+  width: 350px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.btn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.btn:hover {
+  background-color: lightgrey;
+}
